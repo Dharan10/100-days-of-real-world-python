@@ -25,3 +25,23 @@ emi=15000
 total_expence=food+rent+dress+emi
 savings=monthly_income-total_expence
 print(f"Monthly Income: {monthly_income} \n Expences: \n Food: {food} \n Rent: {rent} \n Dress: {dress} \n EMI: {emi} \n Total Expence: {total_expence} \nSavings: {savings}")
+
+
+# OP:
+# #Easy
+# The total cost for 3 cups of coffee is 360 rupees.
+#
+# #Medium
+# Student: Dharan
+# Age: 24
+# Average Marks: 66.67
+#
+# #Hard
+# Monthly Income: 50000
+#  Expences:
+#  Food: 3000
+#  Rent: 5000
+#  Dress: 3000
+#  EMI: 15000
+#  Total Expence: 26000
+# Savings: 24000
