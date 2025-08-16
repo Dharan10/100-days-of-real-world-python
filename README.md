@@ -20,7 +20,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 ## 🚀 Daily Progress
 
 ### Phase 1: Foundations (Day 1–20)
-- [Day 1: Variables, Data Types, print](Day1/problems.md)  
+- [Day 1: Variables, Data Types, print](Day1/problem.md)  
 - Day 2: Input & Type Casting  
 - Day 3: Operators (Arithmetic, Comparison, Logical)  
 - Day 4: Strings Basics (indexing, slicing, methods)  
