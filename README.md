@@ -22,7 +22,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 ### Phase 1: Foundations (Day 1–20)
 - [Day 1: Variables, Data Types, print](Day1/problem.md)  
 - [Day 2: Input & Type Casting](Day2/problem.md)  
-- Day 3: Operators (Arithmetic, Comparison, Logical)  
+- [Day 3: Operators (Arithmetic, Comparison, Logical)](Day3/problem.md)  
 - Day 4: Strings Basics (indexing, slicing, methods)  
 - Day 5: String Formatting (f-strings, format)  
 - Day 6: Conditionals (if, elif, else)  
@@ -92,7 +92,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 ---
 
 ## 📊 Progress Tracker
-![Progress](https://img.shields.io/badge/Progress-2%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-3%2F100-brightgreen)
 
 ---
 
