@@ -24,7 +24,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 - [Day 2: Input & Type Casting](Day2/problem.md)  
 - [Day 3: Operators (Arithmetic, Comparison, Logical)](Day3/problem.md)  
 - [Day 4: Conditional Statements(if, elif, else)](Day4/problem.md)  
-- Day 5: String Formatting (f-strings, format)  
+- [Day 5: String Formatting (f-strings, format)](Day5/problem.md)
 - Day 6: Strings Basics (indexing, slicing, methods)
 - Day 7: Loops (for, while)  
 - Day 8: Loop Control (break, continue, pass)  
@@ -92,7 +92,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 ---
 
 ## 📊 Progress Tracker
-![Progress](https://img.shields.io/badge/Progress-4%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-5%2F100-brightgreen)
 
 ---
 
