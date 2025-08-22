@@ -92,7 +92,7 @@ The goal is to go from **beginner to pro** step by step, covering Python fundame
 ---
 
 ## 📊 Progress Tracker
-![Progress](https://img.shields.io/badge/Progress-6%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-7%2F100-brightgreen)
 
 ---
 
